@@ -17,6 +17,7 @@ System Generated Data: landing page, identifier, anything in distribution
 
 Simple Reference Metadata: title, descripton, keywords etc .... basically any leftover missing fields.
 
+The outstanding issue is going to be deciding on a process/mechanism/tool to capture this missing metadata.
 
 
 
