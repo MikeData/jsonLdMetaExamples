@@ -27,8 +27,8 @@ Honestly it's pretty hacky so I'd just use the examples.
 
 If you absulutely have to though...............
 
-Unzip the jsonDUMP file
-pip install pandas
-drop a V3 load file into the directory and ```python json_derrive.py <filename>```
+* Unzip the jsonDUMP file
+* pip install pandas
+* drop a V3 load file into the directory and ```python json_derrive.py <filename>```
 
 It doesn't currently do months (didn't get around to it) but there's no blocker to it.
