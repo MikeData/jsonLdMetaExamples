@@ -5,7 +5,7 @@ https://github.com/ldodds/ons-metadata-examples
 
 ## explanation
 
-If you start on the assmumption you have a loadfile at hand, you can generate a metadata file including 1.) Static MetaData (publisher etc), 2.) Metadata thats specificed in the load file (geography, time, dimensions, etc).
+If you start with the assumption you have a loadfile at hand, you can generate a metadata file including 1.) Static MetaData (publisher etc), 2.) Metadata thats specificed in the load file (geography, time, dimensions, etc).
 
 thats what the script does, three example of generated metafiles are included to give us an idea of where we're heading. the order is a bit off compared to Leighs but it doesnt matter with json and the fields are correct.
 
