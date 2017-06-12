@@ -23,7 +23,9 @@ The outstanding issue is going to be deciding on a process/mechanism/tool to cap
 
 ## How do I use this?
 
-Honestly it's reallyl hacky to I'd just use the examples. If you need to though:
+Honestly it's pretty hacky so I'd just use the examples. 
+
+If you absulutely have to though...............
 
 Unzip the jsonDUMP file
 pip install pandas
