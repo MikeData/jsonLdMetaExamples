@@ -1,6 +1,6 @@
 # jsonLdMetaExamples
 
-simple json Ld meta-examples. based on Leigh Dodds armed-forces metadata example:
+partial json Ld meta-examples. based on Leigh Dodds armed-forces metadata example:
 https://github.com/ldodds/ons-metadata-examples
 
 ## explanation
