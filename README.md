@@ -11,6 +11,8 @@ If you start with the assumption you have a loadfile at hand, you can generate a
 
 thats what the script does, three example of generated metafiles are included to give us an idea of where we're heading. the order is a bit off compared to Leighs but it doesnt really matter with json.
 
+the easiest way to view is prbably to download and drag into your browser (make sure you have a json viewer plugin of some kind installed in chrome).
+
 
 ## Whats the next move?
 
