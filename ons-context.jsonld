@@ -1,0 +1,143 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/dcat#",
+    "adms": "http://www.w3.org/ns/adms#",
+    "dc": "http://purl.org/dc/terms/",
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "hydra": "http://www.w3.org/ns/hydra/core#",
+    "odrs": "http://schema.theodi.org/odrs",
+    "ons": "/terms#",
+    "org": "http://www.w3.org/ns/org#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "qb": "http://purl.org/linked-data/cube#",
+    "schema": "http://schema.org/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "spdx": "https://spdx.org/rdf/terms/#",
+    "stat": "http://data.europa.eu/(xyz)/statdcat-ap/",   
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "vcard": "http://www.w3.org/2006/vcard/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#",
+    "type": "@type",
+    "id": "@id",
+    "RightsStatement": {
+        "@id": "dc:RightsStatement"
+    },
+    "Dimension": {
+        "@id": "qb:Dimension"
+    },
+    "ConceptScheme": {
+        "@id": "skos:ConceptScheme"
+    },
+    "Concept": {
+        "@id": "skos:Concept"
+    },
+    "Organization": {
+        "@id": "org:Organization"
+    },
+    "title": "dc:title",
+    "description": "dc:description",
+    "publisher": "dc:publisher",
+    "identifier": "dc:identifier",
+    "language": "dc:language",
+    "temporal": "dc:temporal",
+    "spatial": "dc:spatial",
+    "accessRights": "dc:accessRights",
+    "format": "dc:format",
+    "page": "foaf:page",
+    "hasVersion": "dc:hasVersion",
+    "isVersionOf": "dc:isVersionOf",
+    "name": "skos:prefLabel",
+    "versionInfo": "owl:versionInfo",
+    "versionNotes": "adms:versionNotes",
+    "attribute": "stat:attribute",
+    "dimension": "stat:dimension",
+    "unitMeasure": "stat:unitMeasure",
+    "license": "dc:license",
+    "rights": "dc:rights",
+    "attributionText": "odrs:attributionText",
+    "copyrightNotice": "odrs:copyrightNotice",
+    "checksum": "spdx:checksum",
+    "email": "vcard:email",
+    "tel": "vcard:tel",
+    "nationalStatistic": "ons:nationalStatistic",
+    "source": "dc:source",
+    "dimension": "stat:dimension",
+    "codeList": "qb:codeList",
+    "notation": "skos:notation",
+    "narrower": "skos:narrower",
+    "broader": "skos:broader",
+    "hierarchical": "ons:hierarchical",
+    "level": "xkos:depth",    
+    "issued": {
+      "@id": "dc:issued",
+      "@type": "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "modified": {
+      "@id": "dc:modified",
+      "@type": "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "accrualPeriodicity": {
+       "@id": "dc:accrualPeriodicity",
+       "@type": "@id"
+    },
+    "relation": {
+       "@id": "dc:relation",
+       "@type": "@id"
+    },
+    "downloadURL": {
+      "@id": "dcat:downloadURL",
+      "@type": "@id"
+    },
+    "mediaType": {
+      "@id": "dcat:mediaType",
+      "@type": "@id"
+    },
+    "accessURL": {
+      "@id": "dcat:accessURL",
+      "@type": "@id"
+    },
+    "dataLicense": {
+      "@id": "odrs:dataLicense",
+      "@type": "@id"
+    },
+    "contentLicense": {
+      "@id": "odrs:contentLicense",
+      "@type": "@id"
+    },
+    "reuserGuidelines": {
+      "@id": "odrs:reuserGuidelines",
+      "@type": "@id"
+    },
+    "attributionLink": {
+      "@id": "odrs:attributionLink",
+      "@type": "@id"
+    },
+    "homepage": {
+      "@id": "foaf:homepage",
+      "@type": "@id"
+    },
+    "theme": {
+       "@id": "dcat:theme",
+       "@type": "@id"
+    },
+    "methodology": {
+        "@id": "foaf:page",
+        "@type": "@id"
+    },
+    "associatedPublications": {
+        "@id": "dc:related",
+        "@type": "@id"
+    },
+    "levelType": {
+        "@reverse": "skos:member"
+    },
+    "inScheme": {
+        "@reverse": "skos:inScheme"
+    }
+  } 
+}
+
+
