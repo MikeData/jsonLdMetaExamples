@@ -33,4 +33,4 @@ If you absolutely have to though...............
 * pip install pandas
 * drop a V3 load file into the directory and ```python json_derrive.py <filename>```
 
-It doesn't currently do months (didn't get around to it) but there's no blocker to it.
+It doesn't do months yet (didn't get around to it) but there's no blocker to it.
