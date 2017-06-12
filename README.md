@@ -18,10 +18,10 @@ System Generated Data: landing page, identifier, anything in distribution
 
 Simple Reference Metadata: title, descripton, keywords etc .... basically any still missing.
 
-The outstanding issue is going to be deciding on a process/mechanism/tool to capture this missing metadata.
+The outstanding issue is going to be deciding on a process/mechanism/tool to capture the simple reference metadata as there's not really a practical way to automate this.
 
 
-## How do I use this?
+## How do I use this script?
 
 Honestly it's pretty hacky so I'd just use the examples. 
 
